@@ -1,0 +1,2 @@
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache

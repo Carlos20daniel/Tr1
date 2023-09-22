@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.Form1.resources
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.Properties.Resources.resources
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\trabajo1\obj\Debug\trabajo1.csproj.CoreCompileInputs.cache

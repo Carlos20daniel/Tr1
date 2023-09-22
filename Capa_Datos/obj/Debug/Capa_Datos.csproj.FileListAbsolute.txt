@@ -1,0 +1,2 @@
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\Capa_Datos\obj\Debug\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\TRABAJO_FINAL\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
